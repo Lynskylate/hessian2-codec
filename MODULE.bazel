@@ -1,6 +1,5 @@
 module(
     name = "hessian2-codec",
-    repo_name = "com_alibaba_hessian2_codec",
 )
 
 bazel_dep(
