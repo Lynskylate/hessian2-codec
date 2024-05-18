@@ -25,6 +25,7 @@ bazel_dep(
 bazel_dep(
     name = "hedron_compile_commands",
     version = "",
+    dev_dependency = True
 )
 bazel_dep(
     name = "platforms",
